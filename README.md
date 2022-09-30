@@ -29,5 +29,5 @@ exploit tool:
 Your Distro has all the necessary tools
 
 
-ps if you're interested in joining the crew, please pm us here: https://chat.whatsapp.com/L9ghDWqEWDUF898YkXfb80
+ps if you're interested in joining the crew, please pm us here: https://t.me/+boYyYBaWTe02Njk8
 # UXV-INC-
