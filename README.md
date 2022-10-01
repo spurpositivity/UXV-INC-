@@ -1,13 +1,6 @@
 <h2 align="center"><u>UXV-INC-</u></h2>
 
-![Welcome To UXV-INC👋](<h2 align="center"><u>UXV-INC-</u></h2>
-
-![Welcome To UXV-INC👋](UXV-INC 20221001_110933.jpg)
-<h4 align="center"> Welcome To UXV-INC👋 </h4>
-
-<p align="center">
-<br>
-)
+![Welcome To UXV-INC👋]()
 <h4 align="center"> Welcome To UXV-INC👋 </h4>
 
 <p align="center">
