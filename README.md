@@ -17,13 +17,9 @@ Must Have Tools;
 💢 Termux Users💢
 git clone the following tools:
 
-Scanning tools:
+https://github.com/Manisso/fsociety
 
-Brute force tools:
 
-Set tool:
-
-exploit tool:
 
 💢 Linux Users 💢
 Your Distro has all the necessary tools
