@@ -19,7 +19,7 @@ git clone the following tools:
 
 https://github.com/Manisso/fsociety
 
-
+https://github.com/Gameye98/Lazymux
 
 💢 Linux Users 💢
 Your Distro has all the necessary tools
